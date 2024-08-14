@@ -7,15 +7,14 @@ This project provides a REST API using Express and Passport.js for authenticatio
 
 - Node.js
 - npm
-- Docker (optional)
 
 ## Installation
 
 1. Clone the repository:
 
 ```sh
-git clone <repository_url>
-cd project
+git clone https://github.com/9ani/quant_back.git
+cd quant_back
 ```
 
 2. Install dependencies:
